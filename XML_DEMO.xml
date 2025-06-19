@@ -1,0 +1,896 @@
+<DocElectronico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <Encabezado>
+        <IdentificacionDocumento>
+            <NumeroFacturaAfectada>7290</NumeroFacturaAfectada>
+            <SerieFacturaAfectada>OV</SerieFacturaAfectada>
+            <FechaFacturaAfectada>27/05/2024</FechaFacturaAfectada>
+            <MontoFacturaAfectada>6365.40</MontoFacturaAfectada>
+            <ComentarioFacturaAfectada>Error en datos cliente fdfdf fdfd ffff dsfdf dfdfdf</ComentarioFacturaAfectada>
+            <TipoDocumento>03</TipoDocumento>
+            <NumeroDocumento>1648756</NumeroDocumento>
+            <FechaEmision>29/08/2024</FechaEmision>
+            <HoraEmision>09:55:00 am</HoraEmision>
+            <FechaVencimiento>30-08-2024</FechaVencimiento>
+            <Anulado>false</Anulado>
+            <!--Cod. Tipo Pago-->
+            <TipoDePago>CRÉDITO 20 DÍAS CRÉ</TipoDePago>
+            <Serie>A</Serie>
+            <Sucursal>010101</Sucursal>
+            <TipoDeVenta>interna</TipoDeVenta>
+            <Moneda>USD</Moneda>
+        </IdentificacionDocumento>
+        <Vendedor>
+            <Codigo>A01</Codigo>
+            <Nombre>Maria K. Piña</Nombre>
+            <NumCajero>001</NumCajero>
+        </Vendedor>
+        <Comprador>
+            <TipoIdentificacion>J</TipoIdentificacion>
+            <NumeroIdentificacion>402385358</NumeroIdentificacion>
+            <RazonSocial>THE FACTORY HKA VENEZUELA, C.A</RazonSocial>
+            <Direccion>Calle Callejón Gutiérrez, Edf. Riva, Local 2-1. Planta Baja. La
+                california Norte. Caracas Venezuela sssssssssss ssssssssssssss ssss</Direccion>
+            <Pais>VE</Pais>
+            <Telefono>
+                <TelefonoComprador1>+582122447664</TelefonoComprador1>
+            </Telefono>
+            <Correo>
+                <CorreoComprador1>correoprueba@gmail.com</CorreoComprador1>
+            </Correo>
+        </Comprador>
+         <Tercero>
+            <TipoIdentificacion>J</TipoIdentificacion>
+            <NumeroIdentificacion>30941645-6</NumeroIdentificacion>
+            <RazonSocial>ZIM VENEZUELA C.A</RazonSocial>
+            <Direccion>CALLE SANATORIO DEL AVILA EDIF CIUDAD CENTER TORRE F PISO 1 OF 12-F URB BOLEITA NORTE LOS DOS CAMINO</Direccion>
+            <Tipo>Transporte Maritimo</Tipo>
+        </Tercero>
+        <Totales>
+            <NroItems>06</NroItems>
+            <MontoGravadoTotal>10.00</MontoGravadoTotal>
+            <TotalIVA>1.60</TotalIVA>
+            <TotalDescuento>15.90</TotalDescuento>
+            <MontoExentoTotal>77.69</MontoExentoTotal>
+            <MontoTotalConIVA>999999999.60</MontoTotalConIVA>
+            <!-- <MontoEnLetras>Catorce millones quinientos treinta y dos mil seiscientos cuarenta y ocho con quince céntimos.</MontoEnLetras> -->
+            <MontoEnLetras>un mil quinientos veintitrés bolívares con 75/100 céntimos </MontoEnLetras>
+            <Subtotal>666666666.10</Subtotal>
+            <TotalAPagar>999999999.60</TotalAPagar>
+            <ImpuestosSubtotal>
+                <ImpuestoSubtotal>
+                    <CodigoTotalImp>G</CodigoTotalImp>
+                    <AlicuotaImp>16.00</AlicuotaImp>
+                    <BaseImponibleImp>88.00</BaseImponibleImp>
+                    <ValorTotalImp>99.60</ValorTotalImp>
+                </ImpuestoSubtotal>
+                <ImpuestoSubtotal>
+                    <CodigoTotalImp>IGTF</CodigoTotalImp>
+                    <AlicuotaImp>3.00</AlicuotaImp>
+                    <BaseImponibleImp>30.00</BaseImponibleImp>
+                    <ValorTotalImp>33.60</ValorTotalImp>
+                </ImpuestoSubtotal>
+            </ImpuestosSubtotal>
+            <FormasPago>
+                <FormaPago>
+                    <Forma>05</Forma>
+                    <Monto>11.60</Monto>
+                    <Moneda>Bs.</Moneda>
+                    <Descripcion>Tarjeta de débito</Descripcion>
+                    <Fecha>29/08/2024</Fecha>
+                    <TipoCambio>45.9870</TipoCambio>
+                </FormaPago>
+                <FormaPago>
+                    <Forma>04</Forma>
+                    <Monto>999999999.60</Monto>
+                    <Moneda>VES</Moneda>
+                    <Descripcion>Pago Movil</Descripcion>
+                    <Fecha>20/12/2024</Fecha>
+                </FormaPago>
+            </FormasPago>
+        </Totales>
+        <TotalesOtraMoneda>
+            <Moneda>VES</Moneda>
+            <TipoCambio>45.9870</TipoCambio>
+            <MontoGravadoTotal>0.01</MontoGravadoTotal>
+            <MontoExentoTotal>0.02</MontoExentoTotal>
+            <TotalIVA>0.03</TotalIVA>
+            <MontoTotalConIVA>999999999.03</MontoTotalConIVA>
+            <MontoEnLetras>cero dolares con tres centimos</MontoEnLetras>
+            <Subtotal>777777777.04</Subtotal>
+            <TotalAPagar>333333333.05</TotalAPagar>
+            <TotalDescuento>0.21</TotalDescuento>
+            <ImpuestosSubtotal>
+                <ImpuestoSubtotal>
+                    <CodigoTotalImp>G</CodigoTotalImp>
+                    <AlicuotaImp>0.16</AlicuotaImp>
+                    <BaseImponibleImp>0.06</BaseImponibleImp>
+                    <ValorTotalImp>0.07</ValorTotalImp>
+                </ImpuestoSubtotal>
+                <ImpuestoSubtotal>
+                    <CodigoTotalImp>IGTF</CodigoTotalImp>
+                    <AlicuotaImp>0.33</AlicuotaImp>
+                    <BaseImponibleImp>0.13</BaseImponibleImp>
+                    <ValorTotalImp>0.23</ValorTotalImp>
+                </ImpuestoSubtotal>
+            </ImpuestosSubtotal>
+        </TotalesOtraMoneda>        
+    </Encabezado>
+    <DetallesItems>
+        <Item>
+            <NumeroLinea>1</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO 000000000000000000001 </Descripcion>
+            <Cantidad>9000</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>999999999.88</PrecioUnitario>
+            <PrecioItem>999999999</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>999999999.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>2</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO 000000000000000000002</Descripcion>
+            <Cantidad>02</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO 000000000000000000003</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO 000000000000000000004</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>5</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO 000000000000000000005</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <!-- <Item>
+            <NumeroLinea>1</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>999999999.88</PrecioUnitario>
+            <PrecioItem>999999999</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>999999999.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>2</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Champu de Cebolla Antioxidante 700ml Marca: Babaria</Descripcion>
+            <Cantidad>02</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Crema Facial Rejuvenece Bio Noche Vegan 50 ml Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>5</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Mascarilla Capilar de Cebolla Vegan 400 ml Marca: Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item> -->
+        <!-- <Item>
+            <NumeroLinea>1</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>999999999.88</PrecioUnitario>
+            <PrecioItem>999999999</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>999999999.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>2</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Champu de Cebolla Antioxidante 700ml Marca: Babaria</Descripcion>
+            <Cantidad>02</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item> -->
+         <!-- <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Crema Facial Rejuvenece Bio Noche Vegan 50 ml Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>5</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Mascarilla Capilar de Cebolla Vegan 400 ml Marca: Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>1</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>999999999.88</PrecioUnitario>
+            <PrecioItem>999999999</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>999999999.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>2</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Champu de Cebolla Antioxidante 700ml Marca: Babaria</Descripcion>
+            <Cantidad>02</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Crema Facial Rejuvenece Bio Noche Vegan 50 ml Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>5</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Mascarilla Capilar de Cebolla Vegan 400 ml Marca: Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>1</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>999999999.88</PrecioUnitario>
+            <PrecioItem>999999999</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>999999999.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>2</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Champu de Cebolla Antioxidante 700ml Marca: Babaria</Descripcion>
+            <Cantidad>02</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Jabon Intimo Rosa Mosqueta 300 ml Marca: Babaria </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Crema Facial Rejuvenece Bio Noche Vegan 50 ml Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+         <Item>
+            <NumeroLinea>5</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>Mascarilla Capilar de Cebolla Vegan 400 ml Marca: Babaria</Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <PrecioItem>11.60</PrecioItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <SKU>2116843</SKU>
+                    <REF>LNP-VR300</REF>
+                </Info>
+             </InfoAdicionalItem>
+        </Item> -->
+   
+        
+        <!-- <Item>
+            <NumeroLinea>3</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO A FACTURAR </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>E</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                <MontoUSD>999999999.00</MontoUSD>               
+                </Info>
+             </InfoAdicionalItem>
+        </Item>
+        <Item>
+            <NumeroLinea>4</NumeroLinea>
+            <CodigoPLU>12345678</CodigoPLU>
+            <IndicadorBienoServicio>1</IndicadorBienoServicio>
+            <Descripcion>PRODUCTO A FACTURAR </Descripcion>
+            <Cantidad>01</Cantidad>
+            <UnidadMedida>NIU</UnidadMedida>
+            <PrecioUnitario>5.00</PrecioUnitario>
+            <PrecioItem>10.00</PrecioItem>
+            <CodigoImpuesto>G</CodigoImpuesto>
+            <TasaIVA>16.00</TasaIVA>
+            <ValorIVA>1.60</ValorIVA>
+            <ValorTotalItem>11.60</ValorTotalItem>
+            <DescuentoMonto>999999999</DescuentoMonto>
+            <MontoBonificacion>99999</MontoBonificacion>
+             <InfoAdicionalItem>
+                <Info>
+                    <Campo>UNID</Campo>
+                    <Valor>51</Valor>
+                <MontoUSD>999999999.00</MontoUSD>               
+                </Info>
+             </InfoAdicionalItem>
+        </Item> -->
+       
+    </DetallesItems>
+    <InfoAdicional>
+        <!-- <Info> 
+            <Campo>DIST</Campo>
+            <Valor>LOS CORTIJOS</Valor>
+        </Info>
+        <Info> 
+            <Campo>DIR</Campo>
+            <Valor>AV PPLA DE LOS CORTIJOS 4TA TRANSVERSAL EDIF OCAAT PISO PB OF PRINCIPAL URB LOS CORTIJOS DE LOURDES CARACAS MIRANDA ZONA POSTAL 1071 JHGHHGHH JHJHUIU KKKKJNKKNK JK JHJ </Valor>
+        </Info>
+        <Info>
+            <Campo>CODIGO</Campo>
+            <Valor>A000225889</Valor>
+        </Info>
+        <Info>
+            <Campo>NUM</Campo>
+            <Valor>NC</Valor>
+        </Info>
+        <Info>
+            <Campo>CODIGO</Campo>
+            <Valor>A00022588</Valor>
+        </Info>
+        <Info>
+            <Campo>RENTREGA</Campo>
+            <Valor>RUTA DE ENTREGA DE MERCANCIA</Valor>
+        </Info>
+        <Info>
+            <Campo>DENTREGA</Campo>
+            <Valor>Caracas</Valor>
+        </Info>
+        <Info>
+            <Campo>COLETILLA1</Campo>
+            <Valor>FACTURA A CRÉDITO: EL MONTO DE LAS FACTURAS ES EXIGIBLE A SU VENCIMIENTO EN CASO QUE LA MISMA NO SEA PAGADA AL MOMENTO DE SU EXIGIBILIDAD. EL MONTO
+ACORDADO DEVENGARÁ INTERÉS DE FINANCIAMIENTO IGUALES A LA TASA ACTIVA PROMEDIO DE INTERÉS PUBLICADA POR EL BANCO CENTRAL DE VENEZUELA, HASTA EL
+MOMENTO DEL PAGO TOTAL Y EFECTIVO DE LA MISMA. LA PRESENTE FACTURA SE CONSIDERARÁ CANCELADA ÚNICA Y EXCLUSIVAMENTE MEDIANTE LA PRESENTACIÓN DEL
+CORRESPONDIENTE RECIBO DE COBRO DEBIDAMENTE SELLADO Y FIRMADO POR UN REPRESENTANTE AUTORIZADO DEL BENEFICIARIO DE LA MISMA.</Valor>
+        </Info>
+        <Info>
+            <Campo>COLETILLA</Campo>
+            <Valor>Al momento de la cancelación deberá utilizar la tasa
+													vigente del día del pago. A los efectos de la LIVA el TC
+													del BCV utilizado en la factura es de 1$ por Bs
+													44,1900 BI: Bs 1.108,19 IVA: BS 177,33 TOTAL: Bs
+													1.285,62</Valor>
+        </Info>
+        <Info>
+            <Campo>NCOMERCIAL</Campo>
+            <Valor>FORUM SUPER MAYORISTA , C.A fdfsdf  fdfd  fdf </Valor>
+        </Info> -->
+        <Info>
+            <Campo>Awb</Campo>
+            <Valor>#######</Valor>
+        </Info>
+        <Info>
+            <Campo>Manifiesto</Campo>
+            <Valor>#######</Valor>
+        </Info>
+        <Info>
+            <Campo>Peso</Campo>
+            <Valor>14KG</Valor>
+        </Info>
+        <Info>
+            <Campo>Remitido</Campo>
+            <Valor>Pedro Perez</Valor>
+        </Info>
+        <Info>
+            <Campo>EnVehiculo</Campo>
+            <Valor>XSR-322</Valor>
+        </Info>
+        <Info>
+            <Campo>Cif</Campo>
+            <Valor>######</Valor>
+        </Info>
+        <Info>
+            <Campo>Cambio</Campo>
+            <Valor>545345</Valor>
+        </Info>    
+        <Info>
+            <Campo>RelacionGastos</Campo>
+            <Valor>FACTURA SE CONSIDERARÁ CANCELADA ÚNICA Y </Valor>
+        </Info>
+        <Info>
+            <Campo>Expediente</Campo>
+            <Valor>WEDFR34</Valor>
+        </Info>
+         <Info>
+            <Campo>FechaE</Campo>
+            <Valor>14/02/2025</Valor>
+        </Info>
+         <Info>
+            <Campo>ValorDolares</Campo>
+            <Valor>999.999.999,77</Valor>
+        </Info>
+         <Info>
+            <Campo>Contenedor</Campo>
+            <Valor>KJDKJSADN KJSJDKJ</Valor>
+        </Info>
+         <Info>
+            <Campo>CondicionPago</Campo>
+            <Valor>CONTADO</Valor>
+        </Info>
+        
+        <!--PDF-->
+        <Info>
+            <VentaDesde>17/02/2026</VentaDesde>
+            <VentaHasta>23/02/2026</VentaHasta>
+        </Info>
+    </InfoAdicional>
+
+            <!-- 
+
+
+<FENTREGA></FENTREGA>
+<NOTA>TRASLADO A DEPOSITOOOOOOO</NOTA>
+        </Info> -->
+
+<GuiaDespacho>
+        <EsGuiaDespacho>0</EsGuiaDespacho>
+        <MotivoTraslado>Entrega cableado Fibra Optica.</MotivoTraslado>
+        <DescripcionServicio>traslado de pedido n 1234</DescripcionServicio>
+        <TipoProducto>Consumo Masivo</TipoProducto>
+        <OrigenProducto>Nacional</OrigenProducto>
+        <DestinoProducto>Almacén Cliente</DestinoProducto>
+        <PesoOVolumenTotal>1500 Mts.</PesoOVolumenTotal>
+        <Conductor>
+            <NombreCompleto>VICTOR AYALA</NombreCompleto>
+            <TipoIdentificacion>V</TipoIdentificacion>
+            <NumeroIdentificacion>27333700</NumeroIdentificacion>
+            <TipoLicencia>5TA</TipoLicencia>
+            <InfoContacto>04129595959</InfoContacto>
+        </Conductor>
+        <Vehiculo>
+            <TipoVehiculo>CARGA</TipoVehiculo>
+            <NumeroTransporte>15</NumeroTransporte>
+            <NumeroPlaca>ABC123X</NumeroPlaca>
+        </Vehiculo>
+    </GuiaDespacho>
+    <Imprenta>
+        <Snat>DOCUMENTO EMITIDO CONFORME A LA PROVIDENCIA ADMINISTRATIVA SNAT/2014/0032</Snat>
+        <Nombre>THE FACTORY HKA VENEZUELA, C.A.</Nombre>
+        <RIF>J-402385358</RIF>
+        <Autorizacion>Imprenta Digital Autorizada mediante Providencia SENIAT/INTI/XXXXXXX de fecha 09/09/2022</Autorizacion>
+        <Direccion>CALLE CALLEJÓN GUTIÉRREZ EDIF RIVA PISO 1 LOCAL P1-2A URB LA CALIFORNIA NORTE CARACAS (PETARE) MIRANDA ZONA POSTAL. 1070</Direccion>
+        <Telefonos>+58(212)202-0811</Telefonos>
+        <RangoInicial>00-00000001</RangoInicial>
+        <RangoFinal>00-00010000</RangoFinal>
+        <NumeroControl>00-00000102</NumeroControl>
+        <FechaAsignacion>28/08/2024 12:52:15 PM</FechaAsignacion>
+        <FechaAsignacionNumeroControl>29/08/2024</FechaAsignacionNumeroControl>
+        <HoraAsignacionNumeroControl>09:07:46 AM</HoraAsignacionNumeroControl>
+    </Imprenta>
+    <Anulacion1>
+        <FechaAnulacion>04/06/2024</FechaAnulacion>
+        <MotivoAnulacion>anular orden por equivocacion con el monto dfdsfsdfsdfsfsdfsdfsdfsd</MotivoAnulacion>
+    </Anulacion1>
+</DocElectronico>
