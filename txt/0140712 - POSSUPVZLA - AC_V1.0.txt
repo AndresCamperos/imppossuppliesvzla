@@ -398,10 +398,10 @@
 						<fo:block/>
 					</fo:block-container>			
 					<fo:block  xsl:use-attribute-sets="">					
-						<!-- Tabla para el encabezado 20    -->
+						<!-- Tabla para el encabezado 20    background-image="url('data:image/png;base64,{$MarcaAgua}')"-->
 						<fo:table table-layout="fixed"									
         							width="100%"
-									background-image="url('data:image/png;base64,{$MarcaAgua}')"
+									
         							background-repeat="repeat"
         							background-position-horizontal="center"
         							background-position-vertical="center">
@@ -446,7 +446,7 @@
                                                                                             <fo:table-row>
                                                                                                 <fo:table-cell xsl:use-attribute-sets="TituloN01" padding-top="0mm" padding-right="0mm" margin-left="0cm" padding-left="0mm">
                                                                                                     <fo:block text-align="left" color="black">
-                                                                                                        VENEZUELA, CA
+                                                                                                        VENEZUELA, CA - Grupo Lebomar
                                                                                                     </fo:block>
                                                                                                 </fo:table-cell>
                                                                                             </fo:table-row>
